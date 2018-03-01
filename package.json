@@ -37,7 +37,7 @@
     "updot": "updot"
   },
   "dependencies": {
-    "bcoin": "git+https://github.com/Airbitz/bcoin.git#primitiveBuild",
+    "bcoin": "https://github.com/Airbitz/bcoin.git#primitiveBuild",
     "biggystring": "^3.0.0",
     "bn.js": "^4.11.8",
     "buffer": "^5.0.8",
